@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD9mExampleKey123456",
-  authDomain: "firebaseauthapp-12345.firebaseapp.com",
-  projectId: "firebaseauthapp-12345",
-  storageBucket: "firebaseauthapp-12345.appspot.com",
-  messagingSenderId: "9876543210",
-  appId: "1:9876543210:web:abcdef123456",
+  apiKey: "AIzaSyC-qfJmXn97yj2jdiSOi03ldaG6ixPcAZw",
+  authDomain: "react-app-d68dc.firebaseapp.com",
+  projectId: "react-app-d68dc",
+  storageBucket: "react-app-d68dc.firebasestorage.app",
+  messagingSenderId: "19738302388",
+  appId: "1:19738302388:web:4b0c0bebf72ab2cea3c4e1"
 };
 
 
