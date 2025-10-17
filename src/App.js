@@ -1,3 +1,4 @@
+import { AuthProvider } from "./context/AuthContext";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { AuthProvider } from "./context/AuthContext";
 import Home from "./pages/Home";
@@ -22,3 +23,5 @@ function App() {
         </AuthProvider>
     )
 }
+
+export default App;
