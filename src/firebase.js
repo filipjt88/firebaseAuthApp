@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 
-// Data
+// Firebase Data
 const firebaseConfig = {
   apiKey: "AIzaSyC-qfJmXn97yj2jdiSOi03ldaG6ixPcAZw",
   authDomain: "react-app-d68dc.firebaseapp.com",
