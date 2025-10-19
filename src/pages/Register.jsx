@@ -2,6 +2,8 @@ import { useState } from "react";
 import { register } from "../services/auth";
 import { useNavigate } from "react-router-dom";
 
+
+// Register
 const Register = () => {
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
