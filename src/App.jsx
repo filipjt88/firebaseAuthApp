@@ -10,6 +10,7 @@ function App() {
     <AuthProvider>
     <Router>
       <Navbar/>
+      {/* Routes */}
       <Routes>
         <Route path="/home" element={<Home />} />
         <Route path="/login" element={<Login />} />
